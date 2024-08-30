@@ -1,3 +1,6 @@
+**`NOTE ⚠️`: This program is currently not functioning due to a change in the Geocoding API. I am working on it.**
+
+
 # P.E.T
 A python tool to edit image geolocation data.
 
